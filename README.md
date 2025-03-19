@@ -1,1 +1,2 @@
-# Todo-app
+# TodoApp
+todo list app
